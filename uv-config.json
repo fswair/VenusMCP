@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "venus": {
+            "command": "uv",
+            "args": [
+                "--directory",
+                "/Users/venus/Desktop/Projects/Agent",
+                "run",
+                "agent.py"
+            ]
+        }
+    }
+}
